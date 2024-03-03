@@ -1,0 +1,6 @@
+D:\Çok Gizli Belgeler\kod çalışmalarım\engin hoca .net\MaskeTakip\Workaround\bin\Debug\Workaround.exe
+D:\Çok Gizli Belgeler\kod çalışmalarım\engin hoca .net\MaskeTakip\Workaround\bin\Debug\Workaround.pdb
+D:\Çok Gizli Belgeler\kod çalışmalarım\engin hoca .net\MaskeTakip\Workaround\obj\Debug\Workaround.csproj.AssemblyReference.cache
+D:\Çok Gizli Belgeler\kod çalışmalarım\engin hoca .net\MaskeTakip\Workaround\obj\Debug\Workaround.csproj.CoreCompileInputs.cache
+D:\Çok Gizli Belgeler\kod çalışmalarım\engin hoca .net\MaskeTakip\Workaround\obj\Debug\Workaround.exe
+D:\Çok Gizli Belgeler\kod çalışmalarım\engin hoca .net\MaskeTakip\Workaround\obj\Debug\Workaround.pdb
